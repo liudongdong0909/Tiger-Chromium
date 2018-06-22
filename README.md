@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Tiger Chromium，直通美國的瀏覽器
+
+下載地址：[mac 18.6.1](https://github.com/tigeruk/Tiger-Chromium/releases/tag/18.6.1)
 
 You can use the [editor on GitHub](https://github.com/tigeruk/Tiger-Chromium/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
